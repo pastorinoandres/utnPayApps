@@ -13,7 +13,7 @@
     "expo-barcode-scanner": "~5.0.1",
     "expo-constants": "~5.0.1",
     "expo-permissions": "~5.0.1",
-    "firebase": "^6.2.4",
+    "firebase": "^12.8.0",
     "formik": "^1.5.8",
     "moment": "^2.24.0",
     "react": "16.8.3",
